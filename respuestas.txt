@@ -7,3 +7,6 @@ Hay 3 ramas: son master, doc y ghp04 (remota)
 C1->C2->C3->C4->C5
 HEAD está en C4
 
+C1 -> C2 -> C3 -> C5 -> C4' -> C6'
+master y doc están en C6'
+
