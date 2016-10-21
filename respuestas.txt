@@ -13,3 +13,6 @@ master y doc están en C6'
 RVM (Ruby Version Manager) es el Manager de Ruby, que sirve para tener varios interpretes de ruby en una misma máquina en el mismo instante.
 
 Diferencia: El interprete de ruby retorna un objeto, en este caso retorna nil, y también te dice lo que va ejecutando en cada momento.
+
+Diferencia: PRY ejecuta el código y el intérprete interactivo muestra la ejecución en cada línea.
+
