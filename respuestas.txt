@@ -10,3 +10,5 @@ HEAD está en C4
 C1 -> C2 -> C3 -> C5 -> C4' -> C6'
 master y doc están en C6'
 
+RVM (Ruby Version Manager) es el Manager de Ruby, que sirve para tener varios interpretes de ruby en una misma máquina en el mismo instante.
+
