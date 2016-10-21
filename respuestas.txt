@@ -1,1 +1,5 @@
 Respuestas de Primeros Pasos en Ruby
+
+
+C1 -> C2 -> C3
+Hay 3 ramas: son master, doc y ghp04 (remota)
